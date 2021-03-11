@@ -1,7 +1,7 @@
 {
-  "name": "the-guys-from-work",
+  "name": "King-And-Queen-Staff-Pofile",
   "version": "1.0.0",
-  "description": "A team profile generator",
+  "description": "staff profile generator",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bcrisp084/The-guys-from-work.git"
+    "url": "git+https://github.com/spental/King-And-Queen-Staff-Profile.git"
   },
-  "author": "Crispy",
+  "author": "Spental",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bcrisp084/The-guys-from-work/issues"
+    "url": "https://github.com/spental/King-And-Queen-Staff-Profile/issues"
   },
-  "homepage": "https://github.com/bcrisp084/The-guys-from-work#readme",
+  "homepage": "https://github.com/spental/King-And-Queen-Staff-Profile#readme",
   "dependencies": {
     "inquirer": "^7.3.3",
     "path": "^0.12.7",
