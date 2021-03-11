@@ -6,7 +6,7 @@ const LeadMember = require ("./lib/leadMember");
 const render = require("./lib/render");
 const path = require("path");
 const OUTPUT_DIR = path.resolve(__dirname, "output");
-const outputPath = path.join(OUTPUT_DIR, "output.html");
+const outputPath = path.join(OUTPUT_DIR, "genOutput.html");
 const teamMates = [];
 const idTaken = [];
 
