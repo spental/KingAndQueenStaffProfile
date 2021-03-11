@@ -1,0 +1,30 @@
+{
+  "name": "the-guys-from-work",
+  "version": "1.0.0",
+  "description": "A team profile generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcrisp084/The-guys-from-work.git"
+  },
+  "author": "Crispy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcrisp084/The-guys-from-work/issues"
+  },
+  "homepage": "https://github.com/bcrisp084/The-guys-from-work#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "path": "^0.12.7",
+    "template-file": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

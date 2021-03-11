@@ -5,7 +5,7 @@ const Teacher = require("./lib/teacher");
 const LeadMember = require ("./lib/leadMember");
 const render = require("./lib/render");
 const path = require("path");
-const OUTPUT_DIR = path.resolve(_dirname, "output");
+const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "output.html");
 const teamMates = [];
 const idTaken = [];
@@ -235,13 +235,13 @@ const createLeadMember = () => {
   
       //repsonses are pushed to the new intern.
       .then((response) => {
-        const intern = new Intern(
+        const teacher = new Teacher(
           response.name,
           response.teacherNumber,
           response.email,
           response.school
         );
-        teamMates.push(intern);
+        teamMates.push(teacher);
         idTaken.push(response.teacherNumber);
         createEmployee();
       })
