@@ -14,7 +14,7 @@
 # Screenshot
 - Prompt
 
-<img alt="team profile generator" src= "" >
+<img alt="team profile generator" src= "https://github.com/spental/KingAndQueenStaffProfile/blob/main/assets/images/test.png?raw=true" >
 
 - Results Page
 
