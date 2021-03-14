@@ -15,14 +15,14 @@
 
 - Results Page
 
-  ![resultspage](./assests/images/generatedTeamPage.png)
+<img alt="team profile generator" src= "https://github.com/spental/KingAndQueenStaffProfile/blob/main/assets/images/generatedTeamPage.png?raw=true" >
 
 # Video Walk Through
 
 -
 
 # Links
- <img alt="team profile generator" src= "https://github.com/spental/KingAndQueenStaffProfile/blob/main/assets/images/generatedTeamPage.png?raw=true" >
+ 
 
 ### Link to GitHub
 
@@ -30,4 +30,4 @@
 
 ### Link to Application
 
-- file:///Users/kyle/Downloads/Untitled_%20Mar%2014,%202021%2012_54%20PM.webm
+- https:///Users/kyle/Downloads/Untitled_%20Mar%2014,%202021%2012_54%20PM.webm
