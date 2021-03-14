@@ -17,17 +17,14 @@
 
 <img alt="team profile generator" src= "https://github.com/spental/KingAndQueenStaffProfile/blob/main/assets/images/generatedTeamPage.png?raw=true" >
 
-# Video Walk Through
-
--
 
 # Links
- 
+
+### Video Walk Through
+
+- https://drive.google.com/file/d/1tBb6biqyG2v_MGeuFAoaLK51IbVLc48I/view?usp=sharing
 
 ### Link to GitHub
 
 - https://github.com/spental/KingAndQueenStaffProfile
 
-### Link to Application
-
-- https:///Users/kyle/Downloads/Untitled_%20Mar%2014,%202021%2012_54%20PM.webm
