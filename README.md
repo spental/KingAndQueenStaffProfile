@@ -1,26 +1,33 @@
 # KingAndQueenStaffProfile
-# Let's Plan a Day
-JHU Coding Bootcamp-Project 1 (Anthony, Jackie, Kyle, Nick)
+
 # Description
-- The concept for Let’s Plan A Day App is to help users connect to random events and locations based off user's zip code, Users can refresh results until satisfied. Users can email event/restaurant details to specifed recipient.
-# Technologies:
-- HTML5
-- CSS
-- Javascript
-- jQuery
-- Materialize CSS
-- Yelp (API)
-- Ticket Master (API)
-# Screenshots
-- Home page
- ![homepage](./Assets/images/3.png)
+
+- This application was created using npm inquirer. It prompts the user for information to create a list of staff members, title, name, id, and years worked. The initial prompt asks to declare info about the manager than proceeds to give an option to either add a Administrator ( engineer) or Teacher ( intern ). The third option is to exit, by pressing exit the team page will be generated. 
+
+
+# Instructions for running application
+
+- Test by running " npm Test ".
+- Once test are complete run " node index " in the termainal.   
+- Fill out prompts and select exit to generate your team profile. 
+
+# Screenshot
+
 - Results Page
- ![resultspage](./Assets/images/1.png)
+
   ![resultspage](./assests/images/generatedTeamPage.png)
-- Email Results
- ![emailpage](./Assets/images/4.png)
+
+# Video Walk Through
+
+-
+
 # Links
+ <img alt="team profile generator" src= "https://github.com/spental/KingAndQueenStaffProfile/blob/main/assets/images/generatedTeamPage.png?raw=true" >
+
 ### Link to GitHub
-https://spental.github.io/SpencersDateApp/
+
+- https://github.com/spental/KingAndQueenStaffProfile
+
 ### Link to Application
-- https://spental.github.io/SpencersDateApp/
+
+- file:///Users/kyle/Downloads/Untitled_%20Mar%2014,%202021%2012_54%20PM.webm
