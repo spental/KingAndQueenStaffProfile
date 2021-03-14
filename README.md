@@ -12,7 +12,7 @@
 - Fill out prompts and select exit to generate your team profile. 
 
 # Screenshot
-- Prompt
+- Test and Prompt
 
 <img alt="team profile generator" src= "https://github.com/spental/KingAndQueenStaffProfile/blob/main/assets/images/test.png?raw=true" >
 
